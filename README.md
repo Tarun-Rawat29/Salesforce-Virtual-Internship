@@ -69,10 +69,10 @@ This project is a hands-on demonstration of critical Salesforce CRM skills:
 
 ## 📂 Repository Structure
 
-├── source-code/ # Complete Salesforce metadata files and components
-├── output-screenshots/ # Screenshots of working CRM features
-├── project-documentation/ # Functional and technical documentation
-└── README.md # Project summary and structure overview
+- ├── source-code/ # Complete Salesforce metadata files and components
+- ├── output-screenshots/ # Screenshots of working CRM features
+- ├── project-documentation/ # Functional and technical documentation
+- └── README.md # Project summary and structure overview
 
 ---
 
