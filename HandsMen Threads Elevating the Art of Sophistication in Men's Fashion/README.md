@@ -15,7 +15,7 @@ This repository showcases the Salesforce Virtual Internship project for **HandsM
 ## 🎬 Demo Preview
 
 ▶️ **Watch the full walkthrough:**  
-[Click here to view the demo](https://drive.google.com/file/d/1bgX0uyxF4lPkQTSB4o-dKrUY8mHhhugM/view?usp=drive_link)
+[Click here to view the demo](https://drive.google.com/file/d/1bgX0uyxF4lPkQTSB4o-dKrUY8mHhhugM/view?usp=sharing)
 
 ---
 
