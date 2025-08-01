@@ -1,14 +1,22 @@
-HandsMen Threads: A Custom Salesforce CRM Solution
-This repository contains the full Salesforce CRM implementation for HandsMen Threads, a project designed to modernize the brand's operational workflows and customer management.
+# 🧵 HandsMen Threads: Elevating the Art of Sophistication in Men's Fashion
 
-📂 Project Directory
-src/ – Contains all the Apex code, flows, and other Salesforce configuration files.
+This repository showcases the Salesforce Virtual Internship project for **HandsMen Threads**, a refined approach to modern CRM tailored for the fashion-forward brand.
 
-assets/ – A collection of screenshots and UI mockups showcasing the custom application and its features.
+## 📁 Repository Layout
 
-docs/ – In-depth project documentation, including use cases, technical specifications, and a detailed feature breakdown.
+- **codebase/** – Core implementation including Apex logic, Flow configurations, and triggers.
 
-README.md – This file, providing a high-level overview of the project.
+- **screenshots/** – Visual highlights of the CRM interface, flows, and user interactions.
 
-🎥 Demo Video: Click here to watch the demo
-https://drive.google.com/file/d/1B-hI_fGz0rL7j8wK4n_aBcSdU_o5z6t/view?usp=drive_link
+- **project documentation/** – In-depth breakdown of use cases, automation logic, and data modeling decisions.
+
+- **README.md** – Overview of the project and folder structure.
+
+## 🎬 Demo Preview
+
+▶️ **Watch the full walkthrough:**  
+[Click here to view the demo](https://drive.google.com/file/d/12-jGEjhvdw8g9sFneJjVetYvtsVm7g3m/view?usp=drive_link)
+
+---
+
+Crafted as part of the **Salesforce Virtual Internship**, this project reflects real-world scenarios with order confirmation automations, stock alerts, loyalty point updates, and a responsive Lightning UI.  
